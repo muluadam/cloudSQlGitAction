@@ -38,7 +38,7 @@ public class Card{
 		this.cardCSV = cardCSV;
 		this.expiryDate = expiryDate;
 	}
-	
+	public void doNothing(){}
 	
 	public Card() {
 		// TODO Auto-generated constructor stub
